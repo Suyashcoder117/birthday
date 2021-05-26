@@ -1,0 +1,26 @@
+body{
+    justify-content: center;
+    align-items:center;
+    background: linear-gradient(to right, #ffff00, #ff0000, #00f7ff, #00ff15);
+}
+#Tussi, #tussi3{
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+#tussi2{
+    padding-bottom: 100px;
+}
+
+#thunder{
+    height: 100px;
+    width: 100px;
+    border-radius: 30%;
+}
+#btn{
+    background: linear-gradient(to right, #c904cf, #410883);
+    color: white;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+}
